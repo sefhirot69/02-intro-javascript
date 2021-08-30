@@ -6,7 +6,6 @@ const arreglo = [1,2,3,4];
 // arreglo.push(3)
 // arreglo.push(4)
 
-
 let arreglo2 = [...arreglo];
 arreglo2.push(5);
 
