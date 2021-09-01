@@ -26,7 +26,6 @@ const getHeroeByIdAsync = (id) => {
             resolve(heroe);
         }, 2000)
     });
-
 };
 
 getHeroeByIdAsync(4)
